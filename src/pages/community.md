@@ -20,8 +20,7 @@ of cutting-edge papers.
 
 ## [**AI Learners**](https://www.meetup.com/es-ES/ai-learners/) — Co-founder, Lead & Organizer (2018–2024, paused)
 
-**AI Learners** is a nonprofit community of over **1,500 individuals** who seek to learn and discuss topics about Artificial
-Intelligence and its different approaches and applications in Spanish.
+**AI Learners** is a nonprofit community of over **1,500 individuals** who seek to learn and discuss topics about Artificial Intelligence and its different approaches and applications in Spanish.
 
 - **Designed and delivered talks and workshops** on Natural Language Processing (**NLP**) and **ML** for audiences from **~50 to 400 participants**, leading sessions that covered both fundamental and advanced concepts to help attendees build and apply models in real-world applications.
 - Covered both **fundamental and advanced concepts**, helping attendees **build and apply models** in real-world applications.  
