@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "Community"
 ---
 
-I'm passionate about bridging gaps in tech and empowering diverse communities through technology education.
+I care about widening access to tech and empowering diverse communities through education and mentorship.
 
 ---
 
@@ -30,9 +30,9 @@ of cutting-edge papers.
 
 ## [**HackrobotsMX**](https://www.meetup.com/es-ES/hackrobotsmx/) — Founder & Organizer (2015–2020)
 
-HackrobotsMX was the **first nonprofit robotics community in Latin America**, reaching **1,300+ members** and dedicated to education and training in robotics and its different areas.
+HackrobotsMX was a **pioneering nonprofit robotics community in Latin America**, reaching **1,300+ members** and dedicated to education and training in robotics and its different areas.
 
-Our mission was to **unlock and nurture the potential in every person**, by freely sharing knowledge with people of all ages and disciplines — with or without prior experience in electronics or programming.
+Our goal was to **create opportunities for everyone to explore robotics** by providing **free and open educational resources** for people of all ages and skill levels.
 
 - **Promoted hardware development** of hardware and brought robotics to people of all ages through courses, workshops and monthly talks.
 - **Conducted workshops** on Arduino, Tessel, microcontrollers, and basic electronics.
