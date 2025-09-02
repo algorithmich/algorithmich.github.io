@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/algorithmich/algorithmich.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/algorithmich/algorithmich.github.io/actions/workflows/pages/pages-build-deployment)
+
 # Michelle's Blog
 This blog is based on [AstroPaper](https://github.com/satnaing/astro-paper).
 
