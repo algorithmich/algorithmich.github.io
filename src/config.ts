@@ -1,7 +1,7 @@
 export const SITE = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
+  website: "https://algorithmich.github.io/", // replace this with your deployed domain
   author: "Michelle Diaz",
-  profile: "https://github.com/algorithmich",
+  profile: "https://github.com/algorithmich/",
   desc: "A personal blog about machine learning, running, books, and more. Notes and reflections from a hyperactive mind.",
   title: "Home",
   //ogImage: "astropaper-og.jpg",
@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: false,
     text: "Edit page",
-    url: "https://github.com/algorithmich",
+    url: "https://github.com/algorithmich/algorithmich.github.io",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
