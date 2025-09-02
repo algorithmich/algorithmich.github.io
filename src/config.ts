@@ -4,7 +4,7 @@ export const SITE = {
   profile: "https://github.com/algorithmich/",
   desc: "A personal blog about machine learning, running, books, and more. Notes and reflections from a hyperactive mind.",
   title: "Home",
-  //ogImage: "astropaper-og.jpg",
+  ogImage: "algorithmich-og.png",
   lightAndDarkMode: true,
   postPerIndex: 5,
   postPerPage: 5,
